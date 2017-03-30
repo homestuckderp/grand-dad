@@ -80,6 +80,7 @@ func:function()
                 category:'demog',
 		icon:[1,1,'hemoSheet'],
 	});
+							new G.Res({
 			name:'Purple',
 		desc:'Purplebloods mark the last land-dwelling caste and tend to be male.//They are usually violent and possess huge strength.//Infamous part of purple caste is chucklevoodo, a special gift that does... things. //Average lifespan is 5000 years.',
 		startWith:1,
@@ -88,6 +89,7 @@ func:function()
                 category:'demog',
 		icon:[1,2,'hemoSheet'],
 	});
+							new G.Res({
 				name:'Purple',
 		desc:'The first aquatic caste of trolls, violets are considered royalty.//Very strong and very violent, they are usually free to do whatever they want, answering only to fuchsia.//Average lifespan is 7500 years.',
 		startWith:1,
@@ -96,6 +98,7 @@ func:function()
                 category:'demog',
 		icon:[1,3,'hemoSheet'],
 	});
+							new G.Res({
 					name:'Fuchsia',
 		desc:'The highest troll caste, also known as tyrianbloods, they are by far the rarest blood.//Destined to rule over the troll civilization, fuchsiabloods are incredibly strong, but unlike other highbloods, they usually keep their violent tendencies in check.//Fuchsia lifespan is incredibly long, averaging at 30 thousand years.',
 		startWith:1,
