@@ -5,7 +5,7 @@ desc:'here be trolls.',
 engineVersion:1,
 manifest:'trollManifest.js',
 requires:['Default dataset*'],
-sheets:{'hemoSheet':'http://i.imgur.com/xv2Eh04.png'},//custom stylesheet (note : broken in IE and Edge for the time being)
+sheets:{'hemoSheet':'http://i.imgur.com/t7xHpVi.png'},//custom stylesheet (note : broken in IE and Edge for the time being)
 func:function()
 {
 	new G.Res({
