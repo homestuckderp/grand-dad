@@ -24,7 +24,7 @@ func:function()
 		visible:true,
 		partOf:'population',
                 category:'demog',
-		icon:[0,1,'hemoSheet'],
+		icon:[1,0,'hemoSheet'],
 	});
 			new G.Res({
 		name:'Yellow',
@@ -33,7 +33,7 @@ func:function()
 		visible:true,
 		partOf:'population',
                 category:'demog',
-		icon:[0,2,'hemoSheet'],
+		icon:[2,0,'hemoSheet'],
 	});
 		new G.Res({
 		name:'Olive',
@@ -42,7 +42,7 @@ func:function()
 		visible:true,
 		partOf:'population',
                 category:'demog',
-		icon:[0,4,'hemoSheet'],
+		icon:[4,0,'hemoSheet'],
 	});
 			new G.Res({
 		name:'Jade',
@@ -51,7 +51,7 @@ func:function()
 		visible:true,
 		partOf:'population',
                 category:'demog',
-		icon:[0,5,'hemoSheet'],
+		icon:[5,0,'hemoSheet'],
 	});
 				new G.Res({
 		name:'Teal',
@@ -60,7 +60,7 @@ func:function()
 		visible:true,
 		partOf:'population',
                 category:'demog',
-		icon:[0,6,'hemoSheet'],
+		icon:[6,0,'hemoSheet'],
 	});
 					new G.Res({
 		name:'Cerulean',
@@ -69,7 +69,7 @@ func:function()
 		visible:true,
 		partOf:'population',
                 category:'demog',
-		icon:[1,0,'hemoSheet'],
+		icon:[0,1,'hemoSheet'],
 	});
 						new G.Res({
 		name:'Indigo',
@@ -87,7 +87,7 @@ func:function()
 		visible:true,
 		partOf:'population',
                 category:'demog',
-		icon:[1,2,'hemoSheet'],
+		icon:[2,1,'hemoSheet'],
 	});
 							new G.Res({
 				name:'Purple',
@@ -96,7 +96,7 @@ func:function()
 		visible:true,
 		partOf:'population',
                 category:'demog',
-		icon:[1,3,'hemoSheet'],
+		icon:[3,1,'hemoSheet'],
 	});
 							new G.Res({
 					name:'Fuchsia',
@@ -105,7 +105,7 @@ func:function()
 		visible:true,
 		partOf:'population',
                 category:'demog',
-		icon:[1,4,'hemoSheet'],
+		icon:[4,1,'hemoSheet'],
 	});
 }
 });
