@@ -90,7 +90,7 @@ func:function()
 		icon:[2,1,'hemoSheet'],
 	});
 							new G.Res({
-				name:'Purple',
+				name:'Violet',
 		desc:'The first aquatic caste of trolls, violets are considered royalty.//Very strong and very violent, they are usually free to do whatever they want, answering only to fuchsia.//Average lifespan is 7500 years.',
 		startWith:1,
 		visible:true,
