@@ -55,7 +55,7 @@ func:function()
 	});
 				new G.Res({
 		name:'Teal',
-		desc:'Tealbloods, also known as aquabloods, are considered the lower end of upper class.//They are known for their cunning intelligence and due to starting the second half of hemospectrum, above average physical strength.//Tealbloods are the first blood caste with long lifespan, averaging at 500 years.',
+		desc:'Tealbloods, also known as aquabloods, are considered the lower end of upper class.//They are known for their cunning intelligence and due to starting the second half of hemospectrum, above average physical strength.//Tealbloods are the first blood caste with long lifespan, averaging at 400 years.',
 		startWith:1,
 		visible:true,
 		partOf:'population',
@@ -64,7 +64,7 @@ func:function()
 	});
 					new G.Res({
 		name:'Cerulean',
-		desc:'The eight blood caste, also known as cobalt bloods.//Similarly to teal, they are cunning and quick to act. Few cerulean bloods are known to be born with psychic powers, which is otherwise unheard of for higher classes.//Ceruleanbloods lifespan are quite long, surprassing the millenia mark and averaging at 1500 years.',
+		desc:'The eight blood caste, also known as cobalt bloods.//Similarly to teal, they are cunning and quick to act. Few cerulean bloods are known to be born with psychic powers, which is otherwise unheard of for higher classes.//Ceruleanbloods lifespan are quite long, surprassing the millenia mark and averaging at about 1100 years.',
 		startWith:1,
 		visible:true,
 		partOf:'population',
@@ -73,7 +73,7 @@ func:function()
 	});
 						new G.Res({
 		name:'Indigo',
-		desc:'Indigo bloods are considering nobility, consisting mostly of males.//They are the first caste to show violent tendencies and immunity to psychic powers. On rare occasions an indigoblood is born with even more strength than usual, possibly rivaling that of fuchsia.//Average lifespan is 3000 years.',
+		desc:'Indigo bloods are considering nobility, consisting mostly of males.//They are the first caste to show violent tendencies and immunity to psychic powers. On rare occasions an indigoblood is born with even more strength than usual, possibly rivaling that of fuchsia.//Average lifespan is 2000 years.',
 		startWith:1,
 		visible:true,
 		partOf:'population',
@@ -82,7 +82,7 @@ func:function()
 	});
 							new G.Res({
 			name:'Purple',
-		desc:'Purplebloods mark the last land-dwelling caste and tend to be male.//They are usually violent and possess huge strength.//Infamous part of purple caste is chucklevoodo, a special gift that does... things. //Average lifespan is 5000 years.',
+		desc:'Purplebloods mark the last land-dwelling caste and tend to be male.//They are usually violent and possess huge strength.//Infamous part of purple caste is chucklevoodo, a special gift that does... things. //Average lifespan is 2500 years.',
 		startWith:1,
 		visible:true,
 		partOf:'population',
@@ -91,7 +91,7 @@ func:function()
 	});
 							new G.Res({
 				name:'Violet',
-		desc:'The first aquatic caste of trolls, violets are considered royalty.//Very strong and very violent, they are usually free to do whatever they want, answering only to fuchsia.//Average lifespan is 7500 years.',
+		desc:'The first aquatic caste of trolls, violets are considered royalty.//Very strong and very violent, they are usually free to do whatever they want, answering only to fuchsia.//Average lifespan is 5000 years.',
 		startWith:1,
 		visible:true,
 		partOf:'population',
@@ -100,7 +100,7 @@ func:function()
 	});
 							new G.Res({
 					name:'Fuchsia',
-		desc:'The highest troll caste, also known as tyrianbloods, they are by far the rarest blood.//Destined to rule over the troll civilization, fuchsiabloods are incredibly strong, but unlike other highbloods, they usually keep their violent tendencies in check.//Fuchsia lifespan is incredibly long, averaging at 30 thousand years.',
+		desc:'The highest troll caste, also known as tyrianbloods, they are by far the rarest blood.//Destined to rule over the troll civilization, fuchsiabloods are incredibly strong, but unlike other highbloods, they usually keep their violent tendencies in check.//Fuchsia lifespan is incredibly long, averaging at 25 thousand years.',
 		startWith:1,
 		visible:true,
 		partOf:'population',
