@@ -18,7 +18,7 @@ func:function()
 {
 	new G.Res({
 		name:'Burgundy',
-		desc:'The lowest case of troll, also known as rustbloods.//They are usually blessed with psychic powers, but are also psychically vulnearble, and lack in physical power.//Average lifespan is 40 years.'
+		desc:'The lowest case of troll, also known as rustbloods.//They are usually blessed with psychic powers, but are also psychically vulnearble, and lack in physical power.//Average lifespan is 40 years.',
 		startWith:1,
 		visible:true,
 		partOf:'population',
