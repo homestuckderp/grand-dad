@@ -13,7 +13,7 @@ desc:'A basic mod that adds Honeycomb and Bees.',
 engineVersion:1,
 manifest:'beeManifest.js',
 requires:['Default dataset*'],
-sheets:{'honeySheet':'http://i.imgur.com/rAbqDCw.png'},//custom stylesheet (note : broken in IE and Edge for the time being)
+sheets:{'grandDad':'http://i.imgur.com/zurxuna.png', 'honeySheet':'http://i.imgur.com/rAbqDCw.png'},//custom stylesheet (note : broken in IE and Edge for the time being)
 func:function()
 {
 	//Test mod to add honeycomb.bees/honey/mead
@@ -50,7 +50,7 @@ func:function()
 		visible:true,
 		partOf:'population',
                 category:'demog',
-		icon:[5,3],
+		icon:[5,3,'grandDad'],
 	});
 	
 	//Then we augment the base data to incorporate our new resources :
