@@ -11,7 +11,7 @@ name:'Troll mod',
 author:'Homestuck Derp',
 desc:'here be trolls.',
 engineVersion:1,
-manifest:'trollmanifest.js',
+manifest:'trollManifest.js',
 requires:['Default dataset*'],
 sheets:{'hemoSheet':'http://i.imgur.com/WYAXeNl.png'},//custom stylesheet (note : broken in IE and Edge for the time being)
 func:function()
