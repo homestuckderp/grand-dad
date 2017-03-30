@@ -20,3 +20,4 @@ func:function()
     category:'demog',
 		icon:[5,3],
 	});
+});
